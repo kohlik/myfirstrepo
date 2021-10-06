@@ -1,2 +1,2 @@
 # myfirstrepo
-my first repo
+my first repo's read me
